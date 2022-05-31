@@ -1,2 +1,2 @@
 # seleniumTestTask
-    Put 
+    Put Chrome webdriver in root directory. 
